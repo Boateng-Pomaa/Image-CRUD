@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Images CRUD</string>
+    <string name="add">ADD</string>
+    <string name="view">VIEW</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="identity"><pre>       UEB3228121
+        Boateng Pomaa Linda
+        IT B
+    </pre></string>
+    <string name="please_enter_filename">Please enter filename</string>
+</resources>
